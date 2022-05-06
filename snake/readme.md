@@ -1,5 +1,6 @@
 ![Animation](./asset/serpent.jpg)
- &copy; Animation 
+ 
+ &copy; cLEMENT GUTU 
 
  ### Lien :
 [Cliquer sur le lien](https://github.com/clementgutu/Jeux-de-Snake/blob/master/snake/snake.py)
